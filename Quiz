@@ -1,0 +1,16 @@
+Qualifying this Quiz with more than 80% will yield you the Certificate
+
+1.In SQL, the CREATE TABLE command can be used to create tables and retrieve data.
+Ans: FALS
+
+2. Which of the following rules apply to relational tables?
+Ans: No two tables in a database can have the same name AND Every row in a table must have only one value per column/Field
+
+3. Which of the following constraints would be used to ensure that a user couldn’t key into a table a row of data that is exactly like a row that’s already in the table?
+Ans: Primary Key Constraint
+
+4. In SQLiteStudio, the ALTER command can be used to change the name of a column in a table.
+Ans:FALSE
+
+5. Select the statements that are TRUE in regard to creating tables with an SQL Script.
+Ans: CREATE TABLE procedures in a script are separated by semi-colons AND The syntax of the actual SQL CREATE TABLE command is the same whether it is one procedure you key into the query window and run or one of several procedures in a script
